@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "bargainbonanza",
-=======
-  "name": "price_compare",
->>>>>>> e3bcf86ea9cdf1cb53b3e44df5934f0ee8be97d0
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -18,13 +14,10 @@
     "next": "14.2.5"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-=======
->>>>>>> e3bcf86ea9cdf1cb53b3e44df5934f0ee8be97d0
     "postcss": "^8",
     "tailwindcss": "^3.4.1"
   }

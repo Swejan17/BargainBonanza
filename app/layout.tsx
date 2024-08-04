@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   description: "Track your favorite products and get notified when they are at their lowest price on online.",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
